@@ -166,3 +166,5 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+.cfg
